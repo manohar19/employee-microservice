@@ -1,2 +1,6 @@
 # Batch-1
-Spring boot with Microservices
+The application consists of simple employee information.
+
+Technologies are SpringBoot + Microservices + Data JPA + Swagger + Slf4J + Mockito + Spring Mail + Spring Task scheduler + Maven + Jacoco
+
+
